@@ -1,0 +1,17 @@
+-----13 December 2016 Build-----
+
+Level Design:
+- Added Bonus Level1!!! (very unbalanced - do not consider for speedruns)
+- Added a hidden area to Level 2
+- Made it very clear that there are 2 paths at the start of the tutorial
+- Shifted and rotated the starting position for the player for the sake of clarity
+
+Balance:
+- Finalized boss balance for Level 2
+
+Bug Fixes:
+- Fixed a bug where killing a slime with a landmine would stop the player from being knocked back and taking damage
+
+Misc:
+- Current Records: Any%: Tutorial: 0:11; Level 1: 0:45; Level 2: ~2:00 (estimate) All: 2:58 - Me! (kprakash)
+		   100%: Tutorial: 0:56; Level 1: 2:54; Level 2: ~2:00 (estimate) All: 5:50 - Me! (kprakash)
